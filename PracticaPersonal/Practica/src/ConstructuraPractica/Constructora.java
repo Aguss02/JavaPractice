@@ -2,25 +2,19 @@ package ConstructuraPractica;
 
 import java.util.ArrayList;
 
-public class Constructora implements Comprable{
+public class Constructora {
     private ArrayList<Comprable> producto = new ArrayList<>();
 
     public void addProducto(Comprable c){
         this.producto.add(c);
     };
 
-    @Override
-    public Double obtenerPrecio() {
+    public Double getPrecio() {
         Double total = 0.0;
         for(Comprable p: producto){
             total += p.obtenerPrecio();
         }
         return total;
-    }
-
-    @Override
-    public String getTipo() {
-        return this.getClass().getSimpleName();
     }
 
     public void generarInforme(){
