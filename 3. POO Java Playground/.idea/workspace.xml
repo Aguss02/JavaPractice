@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9930ba12-f417-49ec-999a-6d363df23879" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DH-lessons2022.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_1/Toolbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_1/lesson3_piedraPapelTijera/Juego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_1/lesson3_piedraPapelTijera/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson1_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson1_C1/TarjetaDeDebito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson1_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson1_C6/TarjetaDeDebito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson2_C1/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson2_C1/Cupcake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson2_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson2_C6/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson2_C6/Cupcake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson2_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson3_C1/Impresora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson3_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_2/lesson3_C6/Impresora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C1/Editorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C1/Extremo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C1/Naturalmente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C1/NuevoTiempo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C6/Armadura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C6/Carpintero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C6/CarpinteroYSuperheroe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C6/Martillo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson1_C6/Superheroe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C1/Loro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C1/Mascota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C1/MascotaSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C1/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C6/Mascota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C6/MascotaSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C6/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson2_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson3_C1/Carpintero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson3_C1/Martillo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson3_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson3_C1/week3_lesson3_C1.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_3/lesson3_C6/ejercicioEnClaseLesson3C6.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C1/Cupcake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C1/CupcakeElite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C1/CupcakeListo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C1/week_4_lesson1_C1.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C6/Cupcake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C6/CupcakeCrypto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C6/CupcakeListo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson1_C6/week4_lesson1_C6.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C1/Cupcake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C1/CupcakeListo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C1/Impresora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C1/ImpresoraCanon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C6/Cupcake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C6/CupcakeListo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson2_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson3_C1/CajaAhorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson3_C1/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson3_C1/CuentaCorriente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/lesson3_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/test_practiceC1C6/Alumno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/test_practiceC1C6/Examen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/test_practiceC1C6/Final.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/test_practiceC1C6/Parcial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/test_practiceC1C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_4/test_practiceC1C6/practicaExamenUML.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C1/CajaAhorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C1/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C1/CuentaCorriente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C1/GravadorDeImpuestos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C6/CajaAhorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C6/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C6/CuentaCorriente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C6/GravadorDeImpuestos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C6/dudas/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson1_C6/dudas/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson2/Enviable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson2/Libro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson2/LibroDigital.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson2/LibroFisico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson2/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_5/lesson2/diagramaLibro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C1/Equipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C1/Jugador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C1/ejercicioMesas/Contenedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C1/ejercicioMesas/Puerto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C6/Ajedrecista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C6/Equipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C6/Jugador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson1_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson2_C1/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson2_C1/ClienteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson2_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson2_C6/CamisetaInvalidaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson2_C6/Equipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson2_C6/Jugador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson2_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C1/CamisetaInvalidaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C1/Jugador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C1/PosicionException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C1/Seleccion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C6/Equipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C6/Jugador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C6/PosicionInexistenteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_6/lesson3_C6/week6_lesson3_C6.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory/FactoryAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory2/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory2/EmpleadoContratado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory2/EmpleadoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory2/EmpleadoRelacionDependencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/factory2/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C1/singleton/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/factory/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/factory/Hipopotamo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/factory/Jirafa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/factory/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/singleton/CajeroSupermercado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/singleton/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/singleton/Contador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson1_C6/singleton/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C1/Amarillo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C1/Rojo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C1/Semaforo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C1/StateSemaforo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C1/Verde.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C6/Amarillo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C6/Rojo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C6/Semaforo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C6/StateSemaforo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson2_C6/Verde.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson3_C6/Articulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson3_C6/Finalizado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson3_C6/ParaEnvio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson3_C6/Presupuesto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson3_C6/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson3_C6/Reparacion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_7/lesson3_C6/StateArticulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_8/finalExamPractice/Curso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_8/finalExamPractice/Instituto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_8/finalExamPractice/OfertaAcademica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_8/finalExamPractice/OfertaAcademicaFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_8/finalExamPractice/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DH-lessons2022/week_8/finalExamPractice/Test.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BaGPTmUMD6EnL7tshNFCDdsCEj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Agustina/Desktop/DH/3. POO Java/DH-Clase12Docente",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9930ba12-f417-49ec-999a-6d363df23879" name="Changes" comment="" />
+      <created>1657136759707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657136759707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
